@@ -1,0 +1,101 @@
+
+body {
+	margin: 0;
+	font-family: 'Lato', sans-serif;
+	background-color: #EEEDEE;
+}
+
+ul{
+	list-style-type: square;
+}
+a{
+	color: black;
+}
+
+.navbar-brand {
+	font-family: 'Give You Glory', cursive;
+} 	
+
+.bold{
+	font-weight: bold;
+}
+
+.card {
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.05);
+	padding: 15px;
+}
+
+.card-title {
+	padding: 0;
+	margin:0;
+}
+
+.card-text{
+	font-size: 16px;
+	padding:0;
+	margin: 0;
+}
+
+.card-subtitle {
+	font-size: 18px;
+	font-weight: bold;
+	padding-top: 3px;
+}
+
+.card-footer {
+	font-size: 18px;
+}
+
+.profile-card {
+	padding: 0;
+}
+
+.gap {
+	margin-top: 15px;
+}
+
+.gap-down{
+	margin-bottom: 15px;
+}
+
+.profilepic {
+	width: 180px;
+	border-radius: 50%;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 20px;
+}
+
+.name-kjz{
+	font-family: 'Give You Glory', cursive;
+} 	
+
+.fab {
+	padding: 5px;
+}
+
+.btn {
+	font-weight: 300;
+}
+
+.jumbotron{
+	background-image: url("img/IMG_2047.png");
+	background-size: cover;
+	color: white;
+	padding-top: 250px;
+	padding-bottom: 100px;
+}
+
+.display-1{
+	font-size: 26px;
+}
+
+.no-padding {
+	padding: 0;
+	margin: 0;
+}
+
+.progress-color{
+	background-color: grey;
+}
